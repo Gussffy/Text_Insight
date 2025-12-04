@@ -1,4 +1,4 @@
-import 'package:analisador_texto/views/tela_login.dart';
+import 'package:text_insight/views/tela_login.dart';
 import 'package:flutter/material.dart';
 import '../models/usuario.dart';
 import '../models/analise_resultado.dart';
