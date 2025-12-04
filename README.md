@@ -1,4 +1,4 @@
-# analisador_texto
+# Text Insight
 
 A new Flutter project.
 
